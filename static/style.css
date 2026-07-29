@@ -342,6 +342,20 @@ footer.more-down {
     height: auto;
     padding: 15px;
   }
+  
+    a.btn-small {
+        max-width: 100%;
+        padding: 14px;
+
+    }
+    a.btn-small{
+        width: 120px;
+        height: 100px;
+        margin: 10px 80px;
+        font-size: 13px;
+        row-gap: 20px;
+    }
+   
 
   .nav-links {
     flex-direction: column;
