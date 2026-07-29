@@ -25,7 +25,10 @@ paths = [
     'Pakstudies-ol/history/sec3/ayub','Pakstudies-ol/history/sec3/bangla','Pakstudies-ol/history/sec3/zulfi','Pakstudies-ol/history/sec3/zia'
     ,'Pakstudies-ol/history/sec3/bena','Pakstudies-ol/history/sec3/nawaz','Pakstudies-ol/history/sec3/7mark'
     , 'Pakstudies-ol/geonotes','Pakstudies-ol/geo/1','Pakstudies-ol/geo/2','Pakstudies-ol/geo/3','Pakstudies-ol/geo/4','Pakstudies-ol/geo/5','Pakstudies-ol/geo/6'
-    , 'Pakstudies-ol/geo/7','Pakstudies-ol/geo/8','Pakstudies-ol/geo/9','Pakstudies-ol/geo/10','Pakstudies-ol/geo/11_12',
+    , 'Pakstudies-ol/geo/7','Pakstudies-ol/geo/8','Pakstudies-ol/geo/9','Pakstudies-ol/geo/10','Pakstudies-ol/geo/11_12'
+    ,'chem-ol/chem-ol','chem-ol/notes','chem-ol/sn2','chem-ol/sn1','chem-ol/book','chem-ol/nb'
+
+
 ]
 
 for path in paths:
