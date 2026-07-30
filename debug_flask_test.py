@@ -27,6 +27,10 @@ paths = [
     , 'Pakstudies-ol/geonotes','Pakstudies-ol/geo/1','Pakstudies-ol/geo/2','Pakstudies-ol/geo/3','Pakstudies-ol/geo/4','Pakstudies-ol/geo/5','Pakstudies-ol/geo/6'
     , 'Pakstudies-ol/geo/7','Pakstudies-ol/geo/8','Pakstudies-ol/geo/9','Pakstudies-ol/geo/10','Pakstudies-ol/geo/11_12'
     ,'chem-ol/chem-ol','chem-ol/notes','chem-ol/sn2','chem-ol/sn1','chem-ol/book','chem-ol/nb'
+    ,'bio-ol/bio-ol','bio-ol/book','bio-ol/Notes','bio-ol/notes/1','bio-ol/notes/2','bio-ol/notes/3','bio-ol/notes/4','bio-ol/notes/5','bio-ol/notes/6'
+    ,'bio-ol/notes/7','bio-ol/notes/8','bio-ol/notes/9','bio-ol/notes/10','bio-ol/notes/11','bio-ol/notes/12','bio-ol/notes/13','bio-ol/notes/14','bio-ol/notes/15'
+    ,'bio-ol/notes/16','bio-ol/notes/17','bio-ol/extra'
+    ,'Acc-al/accounting','Acc-al/book','Acc-al/A2_Notes','Acc-al/As_Notes'
 
 
 ]
