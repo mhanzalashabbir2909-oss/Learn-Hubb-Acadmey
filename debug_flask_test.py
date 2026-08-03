@@ -30,7 +30,8 @@ paths = [
     ,'bio-ol/bio-ol','bio-ol/book','bio-ol/Notes','bio-ol/notes/1','bio-ol/notes/2','bio-ol/notes/3','bio-ol/notes/4','bio-ol/notes/5','bio-ol/notes/6'
     ,'bio-ol/notes/7','bio-ol/notes/8','bio-ol/notes/9','bio-ol/notes/10','bio-ol/notes/11','bio-ol/notes/12','bio-ol/notes/13','bio-ol/notes/14','bio-ol/notes/15'
     ,'bio-ol/notes/16','bio-ol/notes/17','bio-ol/extra'
-    ,'Acc-al/accounting','Acc-al/book','Acc-al/A2_Notes','Acc-al/As_Notes'
+    ,'Acc-al/accounting','Acc-al/book','Acc-al/A2_Notes','Acc-al/As_Notes','Acc-al/notes/1'
+    'Acc-al/notes/2','Acc-al/notes/3','Acc-al/notes/4','Acc-al/notes/5','Acc-al/notes/6','Acc-al/notes/7','Acc-al/notes/8','Acc-al/notes/9','Acc-al/notes/10','Acc-al/notes/11','Acc-al/notes/12','Acc-al/notes/13','Acc-al/notes/14',
 
 
 ]
