@@ -4,12 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Maths | LearnHub</title>
+    <title>Economics Resources | LearnHub</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📘</text></svg>">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>📘</text></svg>">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
     <style>
-        /* Center all download buttons */
         .download-section {
             text-align: center;
             margin: 20px 0;
@@ -24,16 +23,13 @@
         .btn-small {
             display: block;
             margin: 10px 0;
-            width: 240px; /* match global width */
+            width: 240px;
             text-align: left;
         }
     </style>
 </head>
 
-
 <body>
-
-    <!-- HEADER / NAVBAR -->
     <header>
         <nav class="navbar">
             <div class="logo">
@@ -47,24 +43,13 @@
         </nav>
     </header>
 
-    <!-- MAIN CONTENT -->
     <main class="center">
-        <h5>Math Resources</h5>
-        <a class="btn-small" href="{{ url_for('render_html_template', template_name='Math-ol/Book') }}">📓IGCSE Math Book</a>
-        <a class="btn-small" href="{{ url_for('render_html_template', template_name='Math-ol/Numbers') }}">🧾Numbers Past Papers</a>
-        <a class="btn-small" href="{{ url_for('render_html_template', template_name='Math-ol/Co-ordinate_geo') }}">🧾Coordinate Geometry</a>
-       
-       
-
-      
+        <h5>Economics Resources</h5>
+        <a class="btn-small" href="{{ url_for('render_html_template', template_name='Eco-al/book') }}">📓Book by Susan Grant</a>
+   
     </main>
-
-
-   <footer class="footer more-down">
+    <footer class="footer more-down">
         © 2026 LearnHub Academy | All Rights Reserved
     </footer>
-   
-   
-   
-
-
+</body>
+</html>

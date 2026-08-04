@@ -32,7 +32,9 @@ paths = [
     ,'bio-ol/notes/16','bio-ol/notes/17','bio-ol/extra'
     ,'Acc-al/accounting','Acc-al/book','Acc-al/A2_Notes','Acc-al/As_Notes','Acc-al/notes/1'
     'Acc-al/notes/2','Acc-al/notes/3','Acc-al/notes/4','Acc-al/notes/5','Acc-al/notes/6','Acc-al/notes/7','Acc-al/notes/8','Acc-al/notes/9','Acc-al/notes/10','Acc-al/notes/11','Acc-al/notes/12','Acc-al/notes/13','Acc-al/notes/14',
-
+    'CS-alevels/book','CS-alevels/book2','CS-alevels/asnotes','CS-alevels/as/P2','CS-alevels/as/P1','CS-alevels/a2notes'
+    ,'Maths-al/maths','Maths-al/ps','Maths-al/mecha','Maths-al/PMaths_p2-3','Maths-al/PMaths_p1'
+    ,'Eco-al/Economics','Eco-al/book'
 
 ]
 
